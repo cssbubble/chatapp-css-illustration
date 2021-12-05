@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/chat-app-illustration-using-css-rBk7QRDrf)
+- Live Site URL: [live site URL](https://cssbubble.github.io/chatapp-css-illustration/)
 
 ## My process
 - Really it was challenging project. As always I was struggling with backgroud image but that struggle made me learn it. First I made top left background image. Then I made mobile image entirely using html and Css . I learnd a lot positioning properties, couple of times my code broke too. Then I made the main title and paragraph. And lastly made bottom background image. Then the layout broke again, and I fixed it by changing the position of the background div.
